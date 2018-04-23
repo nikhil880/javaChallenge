@@ -1,0 +1,3 @@
+com\db\awmd\challenge\AccountsControllerTest.class
+com\db\awmd\challenge\AccountsServiceTest.class
+com\db\awmd\challenge\repository\AccountsRepositoryInMemoryTest.class
