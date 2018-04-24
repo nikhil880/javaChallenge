@@ -12,3 +12,4 @@ Few points I would like to mention to make it production ready are as follows.
 4.	Further to enhance the quality , we can use static code analysis tolls like sonar, which are easy to integrate using maven plugins and can also be integrated in the bamboo plan.
 5.	We can impose quality gates using sonar plugin, to ensure quality code deployment to production.
 6. Also rest fixtures can be added using fitenesse tool, to include integration tests in the build plan.
+7. Add authentication and authorization to the service methods. Spring boot provides security starter package to add authentication mechanism like basic auth, oath2 , etc along with testing capabilities.
